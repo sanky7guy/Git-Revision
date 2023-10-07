@@ -1,2 +1,2 @@
 # Git-Revision
-This is a Git &amp; Github revision
+This is a Git &amp; Github revision.
